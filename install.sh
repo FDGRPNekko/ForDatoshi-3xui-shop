@@ -19,7 +19,7 @@ read_input_yn() {
     echo
 }
 
-REPO_URL="https://github.com/tweopi/3xui-shopbot.git"
+REPO_URL="https://github.com/FDGRPNekko/ForDatoshi-3xui-shop.git"
 PROJECT_DIR="3xui-shopbot"
 NGINX_CONF_FILE="/etc/nginx/sites-available/${PROJECT_DIR}.conf"
 
@@ -227,7 +227,7 @@ fi
 sudo docker-compose up -d --build
 
 echo -e "\n\n${GREEN}=====================================================${NC}"
-echo -e "${GREEN}      🎉 Установка и запуск успешно завершены! 🎉      ${NC}"
+echo -e "${GREEN}      🎉 Установка и запуск успешно завершены бля!! Теперь спапть! 🎉      ${NC}"
 echo -e "${GREEN}=====================================================${NC}"
 echo -e "\nВеб-панель доступна по адресу:"
 echo -e "  - ${YELLOW}https://${DOMAIN}:${YOOKASSA_PORT}/login${NC}"
