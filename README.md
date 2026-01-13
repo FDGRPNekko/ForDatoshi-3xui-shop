@@ -119,7 +119,7 @@
 2) Выполните:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/tweopi/3xui-shopbot/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/FDGRPNekko/ForDatoshi-3xui-shop/main/install.sh | sudo bash
 ```
 
 3) Следуйте инструкциям установщика:
